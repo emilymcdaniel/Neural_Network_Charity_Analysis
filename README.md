@@ -6,6 +6,14 @@ Determining where to donate the most impactful charitable gift
 Looking at a history of funding requests from Alphabet Soup, we should be able to predict whether future applicants will be successful.
 To do this, features are ranked, sorting occurs within the category and a pattern of features should become evident.
 
+### Source Code: IPYNB
+1) [Original Modeling File](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
+2) [Optimized Modeling File](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb)
+
+### Source Code: H5 (open with Keras load_model method)
+1) [Import MY trained model](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.h5?raw=true)
+2) [Import MY optimized trained model](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.h5?raw=true)
+
 ----
 
 ## Results
