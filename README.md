@@ -24,5 +24,15 @@ Using bulleted lists and images to support your answers, address the following q
 ----
 
 ## Summary
-Overall, I found a model that achieved 69% accuracy by removing SPECIAL_CONSIDERATIONS, which isn't enough to make good predictions. Typically, you want a model that achieves at least 90%.
+Overall, I found a learning model that achieved 69% accuracy by removing SPECIAL_CONSIDERATIONS, which isn't enough to make good predictions. Typically, you want a model that achieves at least 90%.
+
+*AlphabetSoupCharity Accuracy Visual*
+
+![AlphabetSoupCharity](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/Standard.PNG?raw=true)
+
+*AlphabetSoupCharity_Optimization Accuracy Visual*
+
+![AlphabetSoupCharity_Optimization](https://github.com/emilymcdaniel/Neural_Network_Charity_Analysis/blob/main/Optimization.PNG?raw=true)
+
+I would recommend using the random forest model, as modifying single datapoints seemed to minimally impact accuracy. Random Forest would allow these seemingly minimal factors interact and readily find trends among features.
 
